@@ -1,0 +1,8 @@
+{
+  "version": 3,
+  "file": "app.min.js",
+  "sources": ["src/app.js"],
+  "sourcesContent": ["export const answer = 42;"],
+  "names": ["answer"],
+  "mappings": "AAAAA"
+}
